@@ -2,7 +2,7 @@ food = ['apple', 'peach', 'banana' , 'orange' , 'kiwi', 'pear']
 print(food)
 ans = food[::len(food) - 1] #Попросиь объснить
 print(ans)
-print(food[3:5])
+print(food[2:4])
 food[3] = 'grape'
 print(food)
 #
